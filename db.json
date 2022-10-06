@@ -7,12 +7,7 @@
     "email": "ericmaina@gmail.com",
     "jobTitle": "senior accountant",
     "summary": "A committed and passionate software developer with over a year experience in software development. Strong background in web development focusing on backend development. An exceptional fast learner who is known to be able to solve problems and can adapt to new work cultures or environments. Expertise in CSS, JS and Python.",
-    "skills": [
-      "python",
-      "HTML",
-      "CSS",
-      "Javascript"
-    ],
+    "skills": "CPA",
     "primarySchool": "Bondeni Primary School",
     "secondarySchool": "Mangu High",
     "experience": "Eric's shop Accountant"
@@ -24,12 +19,7 @@
     "email": "jermainlamar@gmail.com",
     "jobTitle": "software developer",
     "summary": "A committed and passionate software developer with over a year experience in software development. Strong background in web development focusing on backend development. An exceptional fast learner who is known to be able to solve problems and can adapt to new work cultures or environments. Expertise in CSS, JS and Python.",
-    "skills": [
-      "python",
-      "HTML",
-      "CSS",
-      "Javascript"
-    ],
+    "skills": "python",
     "primarySchool": "Imara Primary School",
     "secondarySchool": "Nairobi High",
     "experience": "Safaricom Developer"
