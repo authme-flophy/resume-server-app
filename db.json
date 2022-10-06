@@ -14,12 +14,7 @@
     ],
     "primarySchool": "Bondeni Primary School",
     "secondarySchool": "Mangu High",
-    "experience": {
-      "institutionName": "Eric's shop",
-      "title": "Accountant",
-      "startYear": "1999",
-      "endYear": "2006"
-    }
+    "experience": "Eric's shop Accountant"
   },
   {
     "id": 2,
@@ -35,12 +30,7 @@
     ],
     "primarySchool": "Imara Primary School",
     "secondarySchool": "Nairobi High",
-    "experience": {
-      "institutionName": "Eric's shop",
-      "title": "Developer",
-      "startYear": "2003",
-      "endYear": "2008"
-    }
+    "experience": "Safaricom Developer"
   }
 ]
 }
