@@ -1,0 +1,46 @@
+{
+  "resumes" : [
+    {
+    "id": 1,
+    "name": "WAIKAU MAINA",
+    "phone": "0712345678",
+    "email": "ericmaina@gmail.com",
+    "summary": "A committed and passionate software developer with over a year experience in software development. Strong background in web development focusing on backend development. An exceptional fast learner who is known to be able to solve problems and can adapt to new work cultures or environments. Expertise in CSS, JS and Python.",
+    "skills": [
+      "python",
+      "HTML",
+      "CSS",
+      "Javascript"
+    ],
+    "primarySchool": "Bondeni Primary School",
+    "secondarySchool": "Mangu High",
+    "experience": {
+      "institutionName": "Eric's shop",
+      "title": "Accountant",
+      "startYear": "1999",
+      "endYear": "2006"
+    }
+  },
+  {
+    "id": 2,
+    "name": "JERMAIN LAMAR",
+    "phone": "0712345678",
+    "email": "jermainlamar@gmail.com",
+    "summary": "A committed and passionate software developer with over a year experience in software development. Strong background in web development focusing on backend development. An exceptional fast learner who is known to be able to solve problems and can adapt to new work cultures or environments. Expertise in CSS, JS and Python.",
+    "skills": [
+      "python",
+      "HTML",
+      "CSS",
+      "Javascript"
+    ],
+    "primarySchool": "Imara Primary School",
+    "secondarySchool": "Nairobi High",
+    "experience": {
+      "institutionName": "Eric's shop",
+      "title": "Developer",
+      "startYear": "2003",
+      "endYear": "2008"
+    }
+  }
+]
+}
